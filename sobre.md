@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sobre
+title: Coisas que se sabe sobre Eduardo Fernandes
 ---
 # Coisas que se sabe sobre Eduardo Fernandes
 
