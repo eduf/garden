@@ -2,7 +2,8 @@
 layout: default
 ---
 # Eduf Lab
-Bem vindo ao laboratório de [Eduardo Fernandes](/sobre). Aqui você vai encontrar experimentos em texto, áudio, desenhos e vídeo. Sem muitas explicações e periodicidade. Sem links pra social media ou plano de negócios. Apenas *feedback loops* pra aprender e manter o sistema rodando.
+
+Bem vindo ao laboratório de [Eduardo Fernandes](/sobre). Aqui você vai encontrar experimentos em texto, áudio, desenhos e vídeo. Sem muitas explicações, periodicidade ou plano de negócios. Apenas *feedback loops* pra manter o sistema atualizado e rodando.
 ## Comece por aqui
 * [Podcast Monólogo Estéreo](https://anchor.fm/monoestereo)
 * [Newsletter](https://eduf.substack.com/)
